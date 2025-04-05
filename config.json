@@ -1,0 +1,43 @@
+{
+	"useNeDB": false,
+	"version": "1.1.4",
+	"menuOn": true,
+	"locale": "en-US",
+	"theme": "system",
+	"fetchInterval": 60,
+	"filterType": 23,
+	"sourceGroups": [
+		{
+			"isMultiple": false,
+			"sids": [
+				0
+			]
+		},
+		{
+			"isMultiple": false,
+			"sids": [
+				1
+			]
+		},
+		{
+			"isMultiple": false,
+			"sids": [
+				2
+			]
+		},
+		{
+			"isMultiple": false,
+			"sids": [
+				6
+			]
+		},
+		{
+			"isMultiple": false,
+			"sids": [
+				7
+			]
+		}
+	],
+	"view": 2,
+	"pacOn": false
+}

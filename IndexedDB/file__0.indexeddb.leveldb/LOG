@@ -1,0 +1,6 @@
+2025/04/04-21:30:50.159 a12ba Reusing MANIFEST /home/smalinux/.config/fluent-reader/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2025/04/04-21:30:50.159 a12ba Recovering log #3
+2025/04/04-21:30:50.163 a12ba Reusing old log /home/smalinux/.config/fluent-reader/IndexedDB/file__0.indexeddb.leveldb/000003.log 
+2025/04/04-21:38:38.967 a12ba Level-0 table #5: started
+2025/04/04-21:38:38.986 a12ba Level-0 table #5: 1310400 bytes OK
+2025/04/04-21:38:38.987 a12ba Delete type=0 #3

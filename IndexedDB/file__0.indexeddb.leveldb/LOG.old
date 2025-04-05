@@ -1,0 +1,3 @@
+2025/04/04-21:28:06.504 a1034 Reusing MANIFEST /home/smalinux/.config/fluent-reader/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2025/04/04-21:28:06.504 a1034 Recovering log #3
+2025/04/04-21:28:06.509 a1034 Reusing old log /home/smalinux/.config/fluent-reader/IndexedDB/file__0.indexeddb.leveldb/000003.log 
